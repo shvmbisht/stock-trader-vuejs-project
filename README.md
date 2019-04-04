@@ -1,7 +1,21 @@
 # stock-trader-vuejs-project
-Stock Trader app where you can buy/sell stocks
-step 1: Checkout to branch v1
-step 2: npm install 
-step 3: npm run dev 
-step 4: open project in localhost:8080 (port number can change if the given port is already occupied).
-step 5: play around with the project .
+
+> It is a stock trader app
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
